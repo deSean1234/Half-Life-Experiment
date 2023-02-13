@@ -1,0 +1,15 @@
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\bin\Debug\net6.0\Half Life Experiment.exe
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\bin\Debug\net6.0\Half Life Experiment.deps.json
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\bin\Debug\net6.0\Half Life Experiment.runtimeconfig.json
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\bin\Debug\net6.0\Half Life Experiment.dll
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\bin\Debug\net6.0\ref\Half Life Experiment.dll
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\bin\Debug\net6.0\Half Life Experiment.pdb
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.csproj.AssemblyReference.cache
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.AssemblyInfoInputs.cache
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.AssemblyInfo.cs
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.csproj.CoreCompileInputs.cache
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.dll
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\ref\Half Life Experiment.dll
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.pdb
+C:\Users\seanx\Desktop\Programming\C#\Other\2023\Half Life Experiment\obj\Debug\net6.0\Half Life Experiment.genruntimeconfig.cache
